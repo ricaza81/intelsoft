@@ -1,0 +1,748 @@
+# Translation of Themes - SKT Software in Spanish (Spain)
+# This file is distributed under the same license as the Themes - SKT Software package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-17 17:27:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - SKT Software\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "SKT Software is a multipurpose WordPress theme which can be used for IT, repair, services, online medium, coaching, corporate, business, program, freeware, application, operating system, laptop, computer, courseware, productivity, file management and others. It comes with ready to import 150+ Elementor templates which can be used for home and inner pages. It is fast, flexible, simple and fully customizable. It is Gutenberg friendly and works with Siteorigin, Beaver builder, Brizy  too.WooCommerce compatible. Documentation: https://www.sktthemesdemo.net/documentation/software-doc/"
+msgstr "SKT Software es un tema multiuso para WordPress que se puede utilizar para IT, reparaciones, servicios, medios online, entrenamientos, empresas, negocios, programas, software gratuito, aplicaciones, sistemas operativos, portátiles, ordenadores, cursos, productividad, administración de archivos y otros. Viene con más de 150 plantillas para Elementor listas para importar que se pueden usar para páginas de inicio e interiores. Es rápido, flexible, sencillo y totalmente personalizable. Es compatible con Gutenberg y también funciona con Siteorigin, Beaver Builder, Brizy. Compatible con WooCommerce. Documentación: https://www.sktthemesdemo.net/documentation/software-doc/"
+
+#. Theme Name of the theme
+#: footer.php:44
+#, gp-priority: high
+msgid "SKT Software"
+msgstr "SKT Software"
+
+#: inc/customizer.php:96
+msgid "Footer Background Color"
+msgstr "Color de fondo del pie de página"
+
+#: inc/customizer.php:83
+msgid "Heder Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#. Template Name of the theme
+msgid "Full Wide"
+msgstr "Ancho completo"
+
+#: sidebar.php:23
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:17
+msgid "Archives"
+msgstr "Archivos"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Categoría"
+
+#. translators: %s: search term
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:24
+msgid "Read More &rarr;"
+msgstr "Leer más &rarr;"
+
+#: content.php:17
+msgid ", "
+msgstr ", "
+
+#: functions.php:273
+msgid "SKT Software comes with 63+ ready-to-use Elementor templates. Install the SKT Templates plugin to get started."
+msgstr "SKT Software viene con más de 63 plantillas para Elementor listas para usar. Instala el plugin SKT Templates para comenzar."
+
+#: functions.php:272
+msgid "Thank you for installing SKT Software!"
+msgstr "¡Gracias por instalar SKT Software!"
+
+#: functions.php:153
+msgid "Collapse submenu"
+msgstr "Contraer el submenú"
+
+#: functions.php:152
+msgid "Expand submenu"
+msgstr "Ampliar el submenú"
+
+#: functions.php:151
+msgid "Close main menu"
+msgstr "Cerrar el menú principal"
+
+#: functions.php:150
+msgid "Open main menu"
+msgstr "Abrir el menú principal"
+
+#: functions.php:112
+msgctxt "Poppins:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:111
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there has any character that are not supported by Scada,
+#. translate this to off, do not translate into your own language.
+#: functions.php:110
+msgctxt "Roboto:on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are any character that are not supported by Roboto
+#. Condensed, trsnalate this to off, do not translate into your own language.
+#: functions.php:105
+msgctxt "Roboto Condensed:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:88
+msgid "Footer Column 4"
+msgstr "Columna 4 del pie de página"
+
+#: functions.php:78
+msgid "Footer Column 3"
+msgstr "Columna 3 del pie de página"
+
+#: functions.php:68
+msgid "Footer Column 2"
+msgstr "Columna 2 del pie de página"
+
+#: functions.php:59 functions.php:69 functions.php:79 functions.php:89
+msgid "Appears on page footer"
+msgstr "Aparece en el pie de página"
+
+#: functions.php:58
+msgid "Footer Column 1"
+msgstr "Columna 1 del pie de página"
+
+#: functions.php:49
+msgid "Appears on sidebar"
+msgstr "Aparece en la barra lateral"
+
+#: functions.php:48
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: image.php:34
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Siguiente <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:33
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: image.php:29 image.php:56
+msgid "Edit"
+msgstr "Editar"
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: content-single.php:26 page.php:28 template-fullwide.php:22
+msgid "Page"
+msgstr "Página"
+
+#: content-single.php:22 image.php:51 page.php:24 template-fullwide.php:18
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/about-themes.php:25
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/about-themes.php:24
+msgid "Buy Pro"
+msgstr "Compra la versión Pro"
+
+#: inc/about-themes.php:23
+msgid "Live Demo"
+msgstr "Demostración en vivo"
+
+#: inc/about-themes.php:17
+msgid "SKT Software is a multipurpose WordPress theme which can be used for IT, repair, services, online medium, coaching, corporate, business, program, freeware, application, operating system, laptop, computer, courseware, productivity, file management and others. It comes with ready to import 63+ Elementor templates which can be used for home and inner pages. It is fast, flexible, simple and fully customizable. WooCommerce compatible."
+msgstr "SKT Software es un tema multiuso para WordPress que se puede utilizar para IT, reparación, servicios, medios online, entrenamiento, empresas, negocios, programas, software gratuito, aplicaciones, sistemas operativos, portátiles, ordenadores, cursos, productividad, administración de archivos y otros. Viene con más de 63 plantillas para Elementor listas para importar que se pueden usar para páginas de inicio e interiores. Es rápido, flexible, sencillo y totalmente personalizable. Compatible con WooCommerce."
+
+#: inc/about-themes.php:15
+msgid "Theme Information"
+msgstr "Información del tema"
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr "Sobre el tema"
+
+#: inc/template-tags.php:161
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">Publicada el</span>"
+
+#: inc/template-tags.php:73
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/template-tags.php:55
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:28
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: inc/customizer.php:154
+msgid "Uncheck To Show This Section"
+msgstr "Desmárcalo para mostrar esta sección"
+
+#: inc/customizer.php:142
+msgid "Add button link"
+msgstr "Añadir el enlace del botón"
+
+#: inc/customizer.php:131
+msgid "Add button name here"
+msgstr "Añade aquí el nombre del botón"
+
+#: inc/customizer.php:121
+msgid "Header Button"
+msgstr "Botón de la cabecera"
+
+#: inc/customizer.php:115
+msgid "Uncheck To Enable Transparent Header"
+msgstr "Desmárcalo para activar la cabecera transparente"
+
+#: inc/customizer.php:105
+msgid "Homepage Transparent Header"
+msgstr "Cabecera transparente de la página de inicio"
+
+#: inc/customizer.php:71 inc/customizer.php:84 inc/customizer.php:97
+msgid "More color options in PRO Version"
+msgstr "Más opciones de color en la versión PRO"
+
+#: inc/customizer.php:70
+msgid "Color Scheme"
+msgstr "Esquema de color"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "Buscar..."
+
+#: header.php:65
+msgid "Menu"
+msgstr "Menú"
+
+#: header.php:60
+msgid "View your shopping cart"
+msgstr "Ver tu carrito de compra"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: 404.php:18
+msgid "Looks like you have taken a wrong turn.....Dont worry... it happens to the best of us."
+msgstr "Parece que has cogido un camino equivocado... No te preocupes... nos pasa a los mejores."
+
+#: 404.php:15
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: no-results.php:20
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: no-results.php:17
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: no-results.php:15
+msgid "Ready to publish your first post? Get started here."
+msgstr "¿Estás listo para publicar tu primera entrada? Empieza aquí."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar los detalles"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar los detalles"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activado"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin tiene que ser actualizado para ser compatible con tu tema."
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin ha sido activado correctamente:"
+msgstr[1] "Los siguientes plugins han sido activados correctamente:"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins tienen que ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr "Navegación de entradas"
+
+#: archive.php:33 front-page.php:38 front-page.php:73
+msgid "Next"
+msgstr "Siguiente"
+
+#: archive.php:32 front-page.php:37 front-page.php:72
+msgid "Back"
+msgstr "Volver"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios siguientes &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.sktthemes.org"
+msgstr "https://www.sktthemes.org"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.sktthemes.org/shop/free-software-wordpress-theme"
+msgstr "https://www.sktthemes.org/shop/free-software-wordpress-theme"
